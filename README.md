@@ -8,6 +8,8 @@ Converting Data to DataFrame : We convert the extracted data into a pandas DataF
 Data Cleaning        : We clean the data by removing non-numeric characters from the price and converting it to float.We 
                        also standardize the availability status.
 Data Analysis        : We calculate the average price of the books and count the number of books in stock and out of stock.
+Data Mining          : Data mining involves extracting useful patterns and knowledge from large datasets. In this project, we use the KMeans clustering algorithm to 
+                       categorize books based on their price and availability status.
 Data Visualization   : We create visualizations to represent the availability and price distribution of the books.
 
 The libraries that we have used are pandas,Matplotlib,Beautifulsoap,
